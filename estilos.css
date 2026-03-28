@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(182, 0, 100);
+}
+
+h2 {
+    color: rgb(182, 0, 100);
+    font-size: medium;
+}
+
+img.capital-letter {
+    width: 100px;
+    height: 100px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+img.capital-letter-2 {
+    width: 100px;
+    height: 100px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
